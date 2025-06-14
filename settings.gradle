@@ -1,0 +1,2 @@
+rootProject.name = 'algasensors'
+include 'microservices:device-management', 'microservices:temperature-monitoring', 'microservices:temperature-processing'
